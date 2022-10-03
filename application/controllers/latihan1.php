@@ -6,7 +6,7 @@ class Latihan1 extends CI_Controller
         echo "Selamat Datang.. selamat belajar Web Programming";   
         //$this->load->view('view-latihan1');
     }
-        public function penjumlahan($n1, $n2)
+        public function penjumlahan($n1, $n2)ghgh
     {
         $this->load->model('model_contoh2');
         $data['nilai1'] = $n1;  
